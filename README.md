@@ -8,7 +8,7 @@ fixed link on webpage to funcion properly. condensed css style sheet to be easil
 
 ## Installation
 github repository available with index.html, style.css, images and this read me file. 
-https://github.com/mpeterson56/Horiseon-Accessibility-optimization.git
+https://mpeterson56.github.io/Horiseon-Accessibility-optimization/
 
 
 
